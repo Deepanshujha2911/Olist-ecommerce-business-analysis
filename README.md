@@ -112,6 +112,8 @@ Credit cards account for **74% of all orders and the vast majority of revenue**.
 
 ![Monthly Revenue Over Time](monthly_revenue_over_time.png)
 
+![Annual Revenue](annual_revenue_2016_sep-dec_2018_jan-aug.png)
+
 | Year | Total Revenue | Coverage |
 |---|---|---|
 | 2016 | R$ 40,471 | Sep – Dec only |
